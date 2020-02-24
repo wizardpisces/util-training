@@ -1,2 +1,2 @@
 # util-training
-js aynsc and more util implementation
+js async and more util implementation
